@@ -14,9 +14,10 @@ Video Content :
 05:31:40 Ch 9 - Context API , useContext hook
 05:59:50 Ch 10 - Context API with useReducers, Custom hooks
 06:26:13 Ch 11 - useRef hook
- 
+
 06:49:00 Ch 12 - useEffect hook detailed, API calls
 07:36:41 Ch 13 - useMemo, useCallback, memo
 
 08:09:52 Ch 14 - Advanced React 1 - forwardRef,useDeferred, useTransistion etc
+
 08:57:44 Ch 15 - Advanced React 2 - Lazy loading, flushSync, createPortal etc 

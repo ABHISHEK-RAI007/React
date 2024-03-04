@@ -1,6 +1,7 @@
 *.txt
 *.pdf
 deBug.js
+*.html
 
 # Logs
 logs
